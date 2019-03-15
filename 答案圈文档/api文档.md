@@ -22,6 +22,7 @@ array (
           'ztid' => 1588,   //专题介绍
           'ztimg' => "http://www.mxqe.com/d/file/20180709/ba4a8324bfe9765004edbd3c40583076.png",  //专题图片
           'ztname' => "小学六年级数学习题答案",   //专题名称
+          'ztpath' => "http://m.mxqe.com/s/xxlnjsxda" //专题的h5链接
         ),  
         *******  //固定返回6条数据  
       )
